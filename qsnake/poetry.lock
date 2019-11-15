@@ -1,0 +1,33 @@
+[[package]]
+category = "main"
+description = ""
+name = "game"
+optional = false
+python-versions = "^3.7"
+version = "0.1.0"
+
+[package.source]
+reference = ""
+type = "directory"
+url = "../game"
+
+[[package]]
+category = "main"
+description = ""
+name = "key-events"
+optional = false
+python-versions = "^3.7"
+version = "0.1.0"
+
+[package.source]
+reference = ""
+type = "directory"
+url = "../key-events"
+
+[metadata]
+content-hash = "78b5bd0b2e767303d6494e7fc81fde5e775013218aa4af7717808e789d465514"
+python-versions = "^3.7"
+
+[metadata.hashes]
+game = []
+key-events = []

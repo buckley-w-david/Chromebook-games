@@ -1,0 +1,19 @@
+[[package]]
+category = "main"
+description = ""
+name = "key-events"
+optional = false
+python-versions = "^3.7"
+version = "0.1.0"
+
+[package.source]
+reference = ""
+type = "directory"
+url = "../key-events"
+
+[metadata]
+content-hash = "9d0573f40fa471aa9090517b626abc48b55f9d8495372b103bf53676a0d8246a"
+python-versions = "^3.7"
+
+[metadata.hashes]
+key-events = []
